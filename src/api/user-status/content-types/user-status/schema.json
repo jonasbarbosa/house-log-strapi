@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "user_statuses",
+  "info": {
+    "singularName": "user-status",
+    "pluralName": "user-statuses",
+    "displayName": "userStatus"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "userExt": {
+      "type": "string"
+    },
+    "uuidStatusExt": {
+      "type": "uid"
+    },
+    "online": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}
