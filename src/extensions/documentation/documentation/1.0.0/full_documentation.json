@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "version": "1.0.0",
-    "title": "DOCUMENTAÇÃO DA API",
+    "title": "DOCUMENTATION",
     "description": "",
     "termsOfService": "YOUR_TERMS_OF_SERVICE_URL",
     "contact": {
@@ -14,7 +14,7 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
-    "x-generation-date": "2022-08-09T04:33:38.312Z"
+    "x-generation-date": "2022-08-09T05:05:55.719Z"
   },
   "x-strapi-config": {
     "path": "/documentation",
